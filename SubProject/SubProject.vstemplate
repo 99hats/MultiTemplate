@@ -1,0 +1,23 @@
+<VSTemplate Version="2.0.0" Type="ProjectGroup"
+    xmlns="http://schemas.microsoft.com/developer/vstemplate/2005">
+  <TemplateData>
+    <Name>SubProject</Name>
+    <Description>An SubProject of a MasterProject template</Description>
+    <ProjectType>CSharp</ProjectType>
+  </TemplateData>
+  <TemplateContent>
+    <ProjectCollection>
+      <SolutionFolder Name="$safeprojectname$">
+        <ProjectTemplateLink ProjectName="App.PCL">
+          App.PCL\MyTemplate.vstemplate
+        </ProjectTemplateLink>
+        <ProjectTemplateLink ProjectName="$safeprojectname$.Droid">
+          SubProject.Droid\MyTemplate.vstemplate
+        </ProjectTemplateLink>
+        <ProjectTemplateLink ProjectName="$safeprojectname$.iOS">
+          SubProject.iOS\MyTemplate.vstemplate
+        </ProjectTemplateLink>
+      </SolutionFolder>
+    </ProjectCollection>
+  </TemplateContent>
+</VSTemplate>

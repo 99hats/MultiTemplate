@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\SubProject",
+    "\\SubProject\\App.PCL",
+    "\\SubProject\\SubProject.Droid",
+    "\\SubProject\\SubProject.UWP",
+    "\\SubProject\\SubProject.UWP\\bin\\ARM\\Debug",
+    "\\SubProject\\SubProject.UWP\\bin\\ARM\\Release",
+    "\\SubProject\\SubProject.UWP\\bin\\x64\\Debug",
+    "\\SubProject\\SubProject.UWP\\bin\\x64\\Release",
+    "\\SubProject\\SubProject.UWP\\Properties"
+  ],
+  "SelectedNode": "\\SubProject\\SubProject.iOS\\AppDelegate.cs",
+  "PreviewInSolutionExplorer": false
+}
