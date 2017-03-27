@@ -17,6 +17,9 @@
         <ProjectTemplateLink ProjectName="$safeprojectname$.iOS">
           SubProject.iOS\MyTemplate.vstemplate
         </ProjectTemplateLink>
+        <ProjectTemplateLink ProjectName="$safeprojectname$.Python">
+          SubProject2.Python\MyTemplate.vstemplate
+        </ProjectTemplateLink>
       </SolutionFolder>
     </ProjectCollection>
   </TemplateContent>

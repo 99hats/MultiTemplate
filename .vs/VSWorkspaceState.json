@@ -4,13 +4,11 @@
     "\\SubProject",
     "\\SubProject\\App.PCL",
     "\\SubProject\\SubProject.Droid",
+    "\\SubProject\\SubProject.iOS",
     "\\SubProject\\SubProject.UWP",
-    "\\SubProject\\SubProject.UWP\\bin\\ARM\\Debug",
-    "\\SubProject\\SubProject.UWP\\bin\\ARM\\Release",
-    "\\SubProject\\SubProject.UWP\\bin\\x64\\Debug",
-    "\\SubProject\\SubProject.UWP\\bin\\x64\\Release",
-    "\\SubProject\\SubProject.UWP\\Properties"
+    "\\SubProject\\SubProject.UWP\\Properties",
+    "\\SubProject\\SubProject2.python"
   ],
-  "SelectedNode": "\\SubProject\\SubProject.iOS\\AppDelegate.cs",
+  "SelectedNode": "\\SubProject\\SubProject2.python\\SubProject2.python.pyproj",
   "PreviewInSolutionExplorer": false
 }
